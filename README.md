@@ -6,7 +6,7 @@ Fabio Anselmi, Luca Bortolussi, Alex Rodriguez, Gaia Saveri (gaia.saveri@phd.uni
 
 Notebooks: 
 
-* [Lab 1](notebooks/Lab_1.Data_generation_and_visualization_for_regression_and_classification.ipynb): Data generation and visualization for regression and classification 
+* [Lab 1](notebooks/Lab_1_Data_generation_and_visualization_for_regression_and_classification.ipynb): Data generation and visualization for regression and classification 
 
 * [Lab 2](notebooks/Lab-2.Polynomial_Regression_Bias_Variance.ipynb): Bias-Variance Trade Off in Polynomial Regression 
 
