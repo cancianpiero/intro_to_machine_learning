@@ -10,33 +10,33 @@ Notebooks:
 
 * [Lab 2](notebooks/Lab_2_Polynomial_Regression_Bias_Variance.ipynb): Bias-Variance Trade Off in Polynomial Regression 
 
-* [Lab 3](notebooks/Lab_3.LinearLogisticRegression.ipynb): Linear and Logistic Regression 
+* [Lab 3](notebooks/Lab_3_LinearLogisticRegression.ipynb): Linear and Logistic Regression 
 
-* [Lab 4](notebooks/Lab_4.RegressionAndRegularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation 
+* [Lab 4](notebooks/Lab_4_RegressionAndRegularizations.ipynb): Regularized Linear Regression and K-Fold Cross Validation 
 
-* [Lab 5](notebooks/Lab_5.UnsupervisedLearning.ipynb): Unsupervised Learning Algorithms 
+* [Lab 5](notebooks/Lab_5_UnsupervisedLearning.ipynb): Unsupervised Learning Algorithms 
 
-* [Lab 6](notebooks/Lab_6.DecisionTreeNaiveBayes.ipynb): Decision Trees and Naive Bayes
+* [Lab 6](notebooks/Lab_6_DecisionTreeNaiveBayes.ipynb): Decision Trees and Naive Bayes
 
-* [Lab 7](notebooks/Lab_7.KNNGaussianNaiveBayesTrees.ipynb): KNN, Trees and Naive Bayes for numerical features
+* [Lab 7](notebooks/Lab_7_KNNGaussianNaiveBayesTrees.ipynb): KNN, Trees and Naive Bayes for numerical features
  
-* [Lab 8](notebooks/Lab_8.Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines 
+* [Lab 8](notebooks/Lab_8_Perceptron_and_SVM.ipynb): Perceptron and Support Vector Machines 
 
-* [Lab 9](notebooks/Lab_9.Kernel_Regression.ipynb): Kernel Regression
+* [Lab 9](notebooks/Lab_9_Kernel_Regression.ipynb): Kernel Regression
 
-* [Lab 10](notebooks/Lab_10.KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM 
+* [Lab 10](notebooks/Lab_10_KernelPCA_KernelSVM.ipynb): Kernel PCA and Kernel SVM 
 
-* [Lab 11](notebooks/Lab_11.Pytorch_NN.ipynb): Introduction to PyTorch
+* [Lab 11](notebooks/Lab_11_Pytorch_NN.ipynb): Introduction to PyTorch
 
-* [Lab 12](notebooks/Lab_12.Implicit_regularization.ipynb): Implicit regularization 
+* [Lab 12](notebooks/Lab_12_Implicit_regularization.ipynb): Implicit regularization 
 
-* [Lab 13](notebooks/Lab_13.Autoencoders.ipynb): Autoencoders 
+* [Lab 13](notebooks/Lab_13_Autoencoders.ipynb): Autoencoders 
 
-* [Lab 14](notebooks/Lab_14.Q&A.ipynb): Q & A
+* [Lab 14](notebooks/Lab_14_Q&A.ipynb): Q & A
 
-* [Lab 15](notebooks/Lab_15.RL_QLearning.ipynb): Reinforcement Learning pt. 1, Q-Learning
+* [Lab 15](notebooks/Lab_15_RL_QLearning.ipynb): Reinforcement Learning pt. 1, Q-Learning
 
-* [Lab 16](notebooks/Lab_16.RL_DeepQLearning.ipynb): Reinforcement Learning pt. 2, Deep Q-Learning 
+* [Lab 16](notebooks/Lab_16_RL_DeepQLearning.ipynb): Reinforcement Learning pt. 2, Deep Q-Learning 
 
 Challenges:
 
