@@ -40,10 +40,10 @@ Notebooks:
 
 Challenges:
 
-* [Challenge 0](challenges/challenge-zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
+* [Challenge 0](challenges/Challenge_zero.ipynb): Data Cleaning, Regularized Logistic Regression and Model Assessment
 
-* [Challenge 1](challenges/challenge-one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
+* [Challenge 1](challenges/Challenge_one.ipynb): Binary Classification with Unsupervised and Supervised Learning Techniques
 
-* [Challenge 2](challenges/challenge_two.ipynb): Kernel Ridge Regression, Kernel PCA and SVM
+* [Challenge 2](challenges/Challenge_two.ipynb): Kernel Ridge Regression, Kernel PCA and SVM
 
-* [Challenge 3](challenges/challenge-three.ipynb): Artificial Neural Networks
+* [Challenge 3](challenges/Challenge_three.ipynb): Artificial Neural Networks
